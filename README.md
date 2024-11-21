@@ -60,7 +60,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/ef749d80-e0b1-4639-a0f5-06abf685c09b)
 
 
-**TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+**TIMING DIAGRAMS FOR 4 Bit Ripple Counter**
 
 ![388487734-f3cd2bab-204a-48cf-af3b-69e5300968c5](https://github.com/user-attachments/assets/1e0a7c1e-4034-4645-b759-79ad95271875)
 
